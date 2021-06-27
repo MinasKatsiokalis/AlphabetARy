@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Heta" size="0.150000 0.150000" />
+    <ImageTarget name="Omikron" size="0.150000 0.150000" />
+    <ImageTarget name="Ypsilon" size="0.150000 0.150000" />
+    <ImageTarget name="Lamda" size="0.150000 0.150000" />
+    <ImageTarget name="Delta" size="0.150000 0.150000" />
+    <ImageTarget name="Gamma" size="0.150000 0.150000" />
+    <ImageTarget name="Beta" size="0.150000 0.150000" />
+    <ImageTarget name="Alpha" size="0.150000 0.150000" />
+    <ImageTarget name="Ni" size="0.150000 0.150000" />
+    <ImageTarget name="Psi" size="0.150000 0.150000" />
+    <ImageTarget name="Omega" size="0.150000 0.150000" />
+    <ImageTarget name="Chi" size="0.150000 0.150000" />
+    <ImageTarget name="Phi" size="0.150000 0.150000" />
+    <ImageTarget name="Taph" size="0.150000 0.150000" />
+    <ImageTarget name="Sigma" size="0.150000 0.150000" />
+    <ImageTarget name="Raw" size="0.150000 0.150000" />
+    <ImageTarget name="Pie" size="0.150000 0.150000" />
+    <ImageTarget name="Ksi" size="0.150000 0.150000" />
+    <ImageTarget name="Mi" size="0.150000 0.150000" />
+    <ImageTarget name="Kappa" size="0.150000 0.150000" />
+    <ImageTarget name="Jiota" size="0.150000 0.150000" />
+    <ImageTarget name="Theta" size="0.150000 0.150000" />
+    <ImageTarget name="Zeta" size="0.150000 0.150000" />
+    <ImageTarget name="Epsilon" size="0.150000 0.150000" />
+  </Tracking>
+</QCARConfig>
