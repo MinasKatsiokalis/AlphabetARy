@@ -16,5 +16,5 @@ the respective greek letter.
 
 3)This is an alpha test so there will be technical problems or bugs, any feedback is welcomed!
 
-Disclaimer: All the sounds and models are taken from free sources such as Unity Asset Store, TurboSquid etc
+Disclaimer: All the sounds and models are taken from free sources such as Unity Asset Store, TurboSquid etc.
 All the rights belong to their legitimate owners. 
