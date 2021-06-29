@@ -4,10 +4,8 @@ An AR mobile application that makes the procedure (for young children) of learni
 AlphabetaARr v.0.1 (Alpha)
 - [Download The App & Cards Here!](https://drive.google.com/drive/folders/1x77dcLgbBV8nSxTThFujTPJIVf9jwtnD)
 
-============================================================================
 The AlphabetARy, is an AR Mobile application that can be installed on every 
 android mobile device thats uses Android 6.0+
-============================================================================
 
 1)In order to use the app, you need to download the 'Cards' folder that contains
 images of the letters of the greek alphabet. (24 in total)
