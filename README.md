@@ -1,8 +1,8 @@
 # AlphabetARy
-![img](https://i.imgur.com/iwwKcOg.png)
-
 An AR mobile application that makes the procedure (for young children) of learning the Greek alphabet more fun.
 The application made using Unity3d 2020.4 and Vuforia 9.8.5
+
+![img](https://i.imgur.com/iwwKcOg.png)
 
 AlphabetaARr v.0.1 (Alpha)
 - [Download The App & Cards Here!](https://drive.google.com/drive/folders/1x77dcLgbBV8nSxTThFujTPJIVf9jwtnD)
