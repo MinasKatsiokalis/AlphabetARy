@@ -4,7 +4,7 @@ The application made using Unity3d 2020.4 and Vuforia 9.8.5
 
 ![img](https://i.imgur.com/iwwKcOg.png)
 
-AlphabetaARr v.0.1 (Alpha)
+AlphabetaARy v.0.1 (Alpha)
 - [Download The App & Cards Here!](https://drive.google.com/drive/folders/1x77dcLgbBV8nSxTThFujTPJIVf9jwtnD)
 
 The AlphabetARy, is an AR Mobile application that can be installed on every 
