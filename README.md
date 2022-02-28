@@ -1,6 +1,6 @@
 # AlphabetARy
 An AR mobile application that makes the procedure (for young children) of learning the Greek alphabet more fun.
-The application made using Unity3d 2020.4 and Vuforia 9.8.5
+The application made using Unity3d 2020.3 and Vuforia 9.8.5
 
 ![img](https://i.imgur.com/iwwKcOg.png)
 
